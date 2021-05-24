@@ -1,0 +1,17 @@
+Projeto de aplicativo web para venda online de produtos de padarias cadastradas **EM DESENVOLVIMENTO**
+
+
+Para rodar o projeto , siga os passos abaixo:
+
+1- Baixar python do site oficial e instalar em sua maquina.
+
+2- Instalar o virtualenv utilizando o seguimento comando no terminal: pip install virtualenv
+   Apos instalado, utilize o comando: 'cd' no terminal/power shell para acessar o projeto
+   Quando estiver dentro do projeto, utilize o comando: virtualenv env
+   Para ativar o ambiente python virtual, utilize o comando: .\env\Scripts\activate
+
+3- Apos ter ativado o ambiente virtual, instalar django utilizando o comando: pip install django
+
+4- Para rodar o servidor, basta digitar o comando: python manage.py runserver
+   Apos rodar o servidor, voce pode acessar a aplicacao web digitando no seu navegador de internet: http://127.0.0.1:8000/
+
